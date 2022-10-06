@@ -1,0 +1,11 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.btn-primary {
+    background-color:green;
+    border-color:green
+}
+.rounded-pill {
+    border-radius: 0% !important;
+    ;}
